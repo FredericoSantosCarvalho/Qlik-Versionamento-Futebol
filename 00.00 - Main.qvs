@@ -17,3 +17,6 @@ SET LongMonthNames='janeiro;fevereiro;março;abril;maio;junho;julho;agosto;setem
 SET DayNames='seg;ter;qua;qui;sex;sáb;dom';
 SET LongDayNames='segunda-feira;terça-feira;quarta-feira;quinta-feira;sexta-feira;sábado;domingo';
 SET NumericalAbbreviation='3:k;6:M;9:G;12:T;15:P;18:E;21:Z;24:Y;-3:m;-6:μ;-9:n;-12:p;-15:f;-18:a;-21:z;-24:y';
+
+
+trace --- Teste Alteração Include Main;
