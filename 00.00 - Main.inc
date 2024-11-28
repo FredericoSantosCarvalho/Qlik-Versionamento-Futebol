@@ -19,6 +19,5 @@ SET LongDayNames='segunda-feira;terça-feira;quarta-feira;quinta-feira;sexta-fei
 SET NumericalAbbreviation='3:k;6:M;9:G;12:T;15:P;18:E;21:Z;24:Y;-3:m;-6:μ;-9:n;-12:p;-15:f;-18:a;-21:z;-24:y';
 
 
-trace --- Teste Alteração Include Main;
 
-trace --- Teste Alteração Pedro;
+// Comentário Fred Dia:19/11/2024 - 20:27
